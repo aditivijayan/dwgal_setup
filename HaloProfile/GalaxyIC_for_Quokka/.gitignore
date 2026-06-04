@@ -1,0 +1,11 @@
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large data tables
+*.h5
