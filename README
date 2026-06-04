@@ -1,0 +1,4 @@
+This repo sets up initial conditions for Dwarf galaxies for Quokka.
+It has two parts-
+ 1. HaloProfile --  the cooling flow solutions from Stern+19 papers. We use this only for setting up the gravitational potential. For LMC/M82 we are actually assuming a hydrostatic CGM which is isothermal at 3 MK.
+ 2. GalIC for Quokka -- includes files that will process GalIC particle files into a Quokka-readable format.
